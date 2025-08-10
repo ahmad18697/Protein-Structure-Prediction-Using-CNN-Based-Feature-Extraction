@@ -1,5 +1,7 @@
 # 🧬 Protein Structure Prediction Using CNN-Based Feature Extraction
 
+> **Reference Paper**: [A CNN-Based Approach for Protein Structure Prediction Using Feature Extraction and Ensemble Learning](https://ieeexplore.ieee.org/document/11032318) (IEEE Access)
+
 ![3D Protein Structure](Image/3D.png)
 
 This repository presents a machine learning-based approach to **predict protein structures** using advanced feature extraction and ensemble learning. It combines **Convolutional Neural Networks (CNN)** for feature extraction with a **stacking ensemble** of classifiers: **Support Vector Machine (SVM)**, **Artificial Neural Network (ANN)**, and **Random Forest (RF)**.
